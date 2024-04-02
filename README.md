@@ -35,7 +35,7 @@ The project mainly reads digital business card through easyocr..And then convert
 ![Screenshot (29)](https://github.com/Guna-Ande/bizcardx/assets/161593988/0f3c7cb1-017d-4398-8655-3e363176b9b6)
 
 
-- In the above screen shot the uploaded digital business card is being recognised and sequential detection of the particlars are being captured.
+- In the above screenshot the uploaded digital business card is being recognised and sequential detection of the particlars are being captured.
 
 
 
